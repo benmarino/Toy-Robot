@@ -1,0 +1,7 @@
+C:\Users\ben_n\OneDrive\Documents\GitHub\Toy-Robot\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe.config
+C:\Users\ben_n\OneDrive\Documents\GitHub\Toy-Robot\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe
+C:\Users\ben_n\OneDrive\Documents\GitHub\Toy-Robot\ToyRobot\ToyRobot\bin\Debug\ToyRobot.pdb
+C:\Users\ben_n\OneDrive\Documents\GitHub\Toy-Robot\ToyRobot\ToyRobot\obj\Debug\ToyRobot.csproj.AssemblyReference.cache
+C:\Users\ben_n\OneDrive\Documents\GitHub\Toy-Robot\ToyRobot\ToyRobot\obj\Debug\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\ben_n\OneDrive\Documents\GitHub\Toy-Robot\ToyRobot\ToyRobot\obj\Debug\ToyRobot.exe
+C:\Users\ben_n\OneDrive\Documents\GitHub\Toy-Robot\ToyRobot\ToyRobot\obj\Debug\ToyRobot.pdb
